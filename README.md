@@ -26,7 +26,7 @@ Utilize machine learning techniques, such as Long Short-Term Memory (LSTM) model
 
 ## Getting Started
 
-Clone the repository: git clone[ https://github.com/your-username/cryptocurrency-data-scraper.git](https://github.com/shreyashD0810/CrytoForecast.git)
+Clone the repository: git clone https://github.com/shreyashD0810/CrytoForecast.git
 Install the required Python packages: pip install -r requirements.txt
 Run the application: python main.py
 
